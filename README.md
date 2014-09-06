@@ -24,3 +24,6 @@ The Cloud9 IDE team
 
 Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
 To watch some training videos, visit http://www.youtube.com/user/c9ide
+
+If you want to backup your changes to GitHub then go to the tab at the bottom of 
+the workspace starting "bash - " and type "git commit -a && git push -u origin master"
